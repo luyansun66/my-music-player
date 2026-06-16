@@ -1,0 +1,12 @@
+# Large media files (embedded in index.html)
+*.mp3
+*.mp4
+*.wav
+*.flac
+
+# Large images (embedded in index.html)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
