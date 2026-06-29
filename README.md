@@ -2,6 +2,9 @@
 
 一个沉浸式暗黑风格3D音乐播放器，支持专辑轮播、动态背景氛围灯、音频频谱可视化。
 
+> 🔗 **在线体验：** [luyansun66.github.io/my-music-player](https://luyansun66.github.io/my-music-player)  
+> *需要浏览器开启 GitHub Pages 后方可访问*
+
 ## ✨ 功能特性
 
 - **3D Coverflow 专辑轮播** — 基于 CSS 3D Transforms 的立体环绕专辑展示
