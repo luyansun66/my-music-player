@@ -1,12 +1,8 @@
-# Large media files (embedded in index.html)
-*.mp3
+# 不再需要过滤（MP3/图片分离后直接引用文件）
 *.mp4
 *.wav
 *.flac
 
-# Large images (embedded in index.html)
-*.jpg
-*.jpeg
 *.png
 *.gif
 *.bmp
